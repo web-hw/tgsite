@@ -4,6 +4,7 @@ $(function () {
 		titCell : ".numUL li",
 		mainCell : ".picUL",
 		effect : "fold",
+		interTime:5000,
 		autoPlay : true,//自动播放开关 true、false
 		trigger : "mouseover"//焦点事件触发[切换图片]开关 mouseover、click
 		// hoverPause: false,//鼠标经过时暂停开关 true、false
